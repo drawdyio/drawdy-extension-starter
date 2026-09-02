@@ -14,7 +14,7 @@
         "@types/node": "^20",
         "typescript": "^5",
         "vite": "^8.2.1",
-        "@drawdy/driver-protocol": "^0.1.0",
+        "@drawdy/driver-protocol": "latest",
         "@rollup/plugin-typescript": "^12.1.2",
         "fflate": "^0.8.2",
         "rollup": "^4.34.0",
