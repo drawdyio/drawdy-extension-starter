@@ -1,1 +1,33 @@
+<!--
+  User guide for your extension. Replace every [placeholder] with your own
+  details. Example: https://github.com/drawdyio/drawdy-official-extension-klipy
+-->
 
+# [Extension name] — Drawdy extension
+
+[One sentence: what the extension does on the board.]
+
+[One sentence: the shortest path from install to result, e.g. "Install the extension, click the icon, drag something onto the canvas."]
+
+![[Describe what the screenshot shows.]](assets/demo.jpg)
+
+## How to use
+
+1. **[Open it].** [Where the user clicks to start, and what they see.]
+2. **[Next step].** [What the user does, and what happens.]
+3. **[Next step].** [What the user does, and what happens.]
+4. **[Put it on the board].** [How the result ends up on the canvas.]
+
+| Interaction        | What happens       |
+| ------------------ | ------------------ |
+| [Click / type / drag something] | [Result] |
+| [Keyboard shortcut]             | [Result] |
+| [Edge case, e.g. drop inside the panel] | [Result] |
+
+[Any behaviour worth knowing that doesn't fit the table.]
+
+---
+
+## Credits
+
+[Services, data or assets the extension relies on, with links.]
